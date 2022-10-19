@@ -1,6 +1,7 @@
 /* variables declared here - these are the colors for our pages, as well as the font stacks and sizes. */
 :root {
     --black: #171321;
+    --green: #162113;
     --dkblue: #0d314b;
     --plum: #4b0d49;
     --hotmag: #ff17e4;
@@ -25,7 +26,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: var(--sans);
-    background-color: var(--black);
+    background-color: var(--green);
     color: var(--white);
     font-size: var(--font-size);
 }
